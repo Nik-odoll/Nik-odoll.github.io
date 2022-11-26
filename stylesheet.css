@@ -51,7 +51,6 @@ a {
 
 .niconico {
   background-color: black;
-  margin-right: 10px;
 }
 
 .twitter {
@@ -82,11 +81,6 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-}
-
-.logo {
-  width: 124px;
-  margin-top: 20px;
 }
 
 .header-left {
@@ -241,15 +235,5 @@ footer {
     font-size: 14px;
   }
 
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
-  }
-
-  .message-wrapper .btn {
-    width: 100%;
   }
 }
