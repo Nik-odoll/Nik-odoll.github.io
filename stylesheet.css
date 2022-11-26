@@ -45,12 +45,12 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
+.Youtube {
+  background-color: red;
 }
 
-.facebook {
-  background-color: #3b5998;
+.niconico {
+  background-color: black;
   margin-right: 10px;
 }
 
@@ -128,22 +128,6 @@ header {
 
 .heading h2 {
   font-weight: normal;
-}
-
-.lesson {
-  float: left;
-  width: 25%;
-}
-
-.lesson-icon {
-  position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 37%;
-  width: 100%;
-  color: white;
 }
 
 .text-contents {
